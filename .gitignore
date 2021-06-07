@@ -1,0 +1,9 @@
+# Build files
+debug/
+target/
+
+# Backup files
+**/*.rs.bk
+
+# MSVC
+*.pdb

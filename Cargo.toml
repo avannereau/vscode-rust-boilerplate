@@ -1,0 +1,7 @@
+[package]
+name = "boilerplate"
+version = "1.0.0"
+authors = ["Alan Vannereau <alan.vannereau@gmail.com>"]
+edition = "2018"
+
+[dependencies]
