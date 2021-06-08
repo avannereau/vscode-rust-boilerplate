@@ -15,8 +15,7 @@
 		}
 	},
 	"extensions": [
-		"rust-lang.rust",
-		"bungcip.better-toml",
+		"swellaby.rust-pack",
 		"vadimcn.vscode-lldb"
 	],
 	"remoteUser": "vscode"
